@@ -8,17 +8,17 @@ I love solving complex problems, optimizing performance, and ensuring the reliab
 
 - **C#:** I have extensive experience with C# and have worked on a variety of applications and services using the .NET framework. From ASP.NET for web development to Windows Forms for desktop applications, I enjoy the versatility and performance that C# provides.
 
-- **Java:** Java is a language I've used for building enterprise-grade applications, Android mobile apps, and backend systems. Its strong ecosystem and cross-platform compatibility make it a powerful choice for a wide range of projects.
+- **Java:** I recently started learning and using Java as part of my programming course and I use it for all kinds of purposes.
 
-- **Python:** Python is my go-to language for scripting, data analysis, and automation tasks. Python's simplicity and extensive libraries make it a valuable tool in my arsenal.
+- **Python:** Python is my go-to language for scripting. I picked up Manim and  I'm working on creating **animations for mathematics**.
 
 ## 🚀 Projects
 
 I have worked on a variety of projects, and you can find some of them on my GitHub repositories. Here are a few highlights:
 
-- **[Books.me](link-to-project-1):** A C# application for reading and organising books.
+- **[Books.me](https://github.com/Books-me/Books.me):** A C# application for reading and organising books.
 
-- **[Minesweeper](link-to-project-2):** A Java-based implementation of classic minesweeper with advanced features.
+- **[Minesweeper](https://github.com/pbogre/minesweeper-CBL):** A Java-based implementation of classic minesweeper with advanced features.
 
 - **[Manim](link-to-project-3):** A Python application using Manim for animation on mathematical objects.
 
