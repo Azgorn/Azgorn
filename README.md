@@ -31,7 +31,6 @@ These are just a few examples of my work, and I'm constantly exploring new proje
 - Database design and management
 - Software architecture
 - Cloud computing (e.g., AWS, Azure, GCP)
-- DevOps and CI/CD
 - Version control (e.g., Git)
 - Problem-solving and debugging
 
